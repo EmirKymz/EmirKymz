@@ -43,6 +43,18 @@
   </td></tr>
   </table>
 
+## Languages and Tools
+
+
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
 ## Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaymaz/)
