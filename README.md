@@ -27,6 +27,9 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
+---
+[![](https://visitcount.itsvg.in/api?id=EmirKymz&icon=6&color=6)](https://visitcount.itsvg.in)
+
 
 
 <!--
